@@ -1,9 +1,22 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CBF434DE-70D6-4236-8A97-07EA90EC5C41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AureliaCoreTest", "src\AureliaCoreTest\AureliaCoreTest.csproj", "{A1F50AFB-B540-4660-8FA6-679FD825DA7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1F50AFB-B540-4660-8FA6-679FD825DA7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F50AFB-B540-4660-8FA6-679FD825DA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F50AFB-B540-4660-8FA6-679FD825DA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F50AFB-B540-4660-8FA6-679FD825DA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A1F50AFB-B540-4660-8FA6-679FD825DA7D} = {CBF434DE-70D6-4236-8A97-07EA90EC5C41}
 	EndGlobalSection
 EndGlobal
