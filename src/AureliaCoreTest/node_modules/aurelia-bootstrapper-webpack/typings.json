@@ -1,0 +1,4 @@
+{
+  "name": "aurelia-bootstrapper-webpack",
+  "main": "dist/aurelia-bootstrapper-webpack.d.ts"
+}
