@@ -1,2 +1,2 @@
 # AureliaTest
-testing Aurelia in .NET Core
+Aurelia + typescript + ASP.NET Core working on VS Code and full VS.
